@@ -15,7 +15,7 @@
 # and the PG will write to the console the kind of error and in which line it is
 
 meta:
-	ADDON_NAME = ofxLaunchControls
+	ADDON_NAME = ofxLaunchControllers
 	ADDON_DESCRIPTION = ofParameter to Novation Launch Control/XL bindings
 	ADDON_AUTHOR = @npisanti
 	ADDON_TAGS = "addon" "control" "midi" 
@@ -71,8 +71,3 @@ linux64:
 	# ADDON_LIBS += libs/opencv/lib/linuxarmv6l/libopencv_calib3d.a
 	# ...
 linux:
-win_cb:
-linuxarmv6l:
-linuxarmv7l:
-android/armeabi:	
-android/armeabi-v7a:	
